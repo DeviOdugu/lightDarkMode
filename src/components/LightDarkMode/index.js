@@ -16,6 +16,7 @@ class LightDarkMode extends Component {
     const headingTextColor = mode ? 'light-heading' : 'dark-heading'
     const buttonText = mode ? 'Dark Mode' : 'Light Mode'
     const buttonColors = mode ? 'light-button' : 'dark-button'
+    
     return (
       <div className={bgColor}>
         <h1 className={headingTextColor}>Click To Change Mode</h1>
