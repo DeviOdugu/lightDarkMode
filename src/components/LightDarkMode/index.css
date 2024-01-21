@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.light-bg {
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  border: solid #000000 2px;
+  border-radius: 6px;
+}
+
+.light-heading {
+  color: #000000;
+  font-size: 20px;
+}
+
+.light-button {
+  border: solid #000000 2px;
+  color: #000000;
+  border-radius: 4px;
+  font-size: 10px;
+  padding: 5px;
+}
+
+.dark-bg {
+  background-color: #000000;
+  font-family: 'Roboto';
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 6px;
+}
+
+.dark-heading {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.dark-button {
+  border: none;
+  color: #000000;
+  background-color: #ffffff;
+  border-radius: 4px;
+  font-size: 10px;
+  padding: 5px;
+}
